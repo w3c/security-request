@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Note that the Security WG prefers groups to run a self-review around the time of FPWD. Let us know when you have done it. Get advice on how to do that at https://w3ctag.github.io/security-questionnaire/.
+We prefers groups to run a self-review around the time of FPWD. See https://w3ctag.github.io/security-questionnaire/.
 
 If you still want us to review your spec, please provide the information below.
 
@@ -16,6 +16,7 @@ In the issue title above add the document name followed by the date of this requ
 - name of spec to be reviewed:
 - URL of spec:
 
+- Does your document have an in-line Security Considerations section, separate from Privacy Considerations? If not, corrrect that before proceeding further.
 - Do you need a reply by a particular date?
 - Please point to the results of your own self-review (see https://w3ctag.github.io/security-questionnaire/)
 - Where and how to file issues arising?

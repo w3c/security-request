@@ -12,6 +12,8 @@ In the issue title above add the document name followed by the date of this requ
 - name of spec to be reviewed:
 - URL of spec:
 
+
+- Does your document have an in-line Security Considerations section, separate from Privacy Considerations? If not, corrrect that before proceeding further.
 - What and when is your next expected transition?
 - What has changed since any previous review?
 - Please point to the results of your own self-review (see https://w3ctag.github.io/security-questionnaire/)

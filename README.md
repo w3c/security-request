@@ -2,7 +2,7 @@
 
 Horizontal review requests will be made via issues in this repo.
 
-Issues generate a notification at [public-security@w3.org](https://lists.w3.org/Archives/Public/public-security/)
+Issues generate a notification to [public-security@w3.org](https://lists.w3.org/Archives/Public/public-security/)
 
 ## History
 
